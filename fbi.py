@@ -3,7 +3,7 @@
 import json , sys , hashlib , os , time , marshal, getpass
 ###################################################################
 '''
-     Facebook Information 
+     Whatsapp tool by Alamnan Hacker 
 '''
 ###################################################################
 #                             COLOR
@@ -25,7 +25,7 @@ except ImportError:
 	print '(o o)'.center(44)
 	print 'ooO--(_)--Ooo'.center(44)
 	print W + ' '
-	print ('F B I').center(44)
+	print ('ALAMBAN HACKER').center(44)
 	print ' '
 	print "[!] Can't import module 'requests'\n"
 	sys.exit()
@@ -55,8 +55,8 @@ def baliho():
 		print '(o o)'.center(44)
 		print 'ooO--(_)--Ooo'.center(44)
 		print ' ' + W
-		print ('F B I').center(44)
-		print (W + '     [' + G +'Facebook Information'+ W + ']')
+		print ('ALAMBAN HACKER').center(44)
+		print (W + '     [' + G +'Whatsapp Crawler'+ W + ']')
 		print ' '
 ####################################################################
 #		    Print In terminal
@@ -66,40 +66,39 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Hak9
-    Name       Facebook Information
+    Author     Alamban Hacker
+    Name       Whatsapp Crawler
     Version    Full Version
-    Date       08/04/2019 
-    Jabber     xhak9x@jabber.de
+    Date       17/02/2022
+    Instagram  alen_chittattil
+    
+>> Messages.IN.919656649002-traceback.upload-whatsapp-graphid.access_code_B0281H
 
-* if you find any errors or problems , please contact
-  author
+
+
+>> Hash : 8a5cc25eb5e532dd9a3ff83cf1fc90922fdf53b2 {upload/upload2/ omedia-ht-nyf@omedia.upload.llnw.net 166 404314}
 '''%(G,W)
 def info_ga():
 
 	print '''
-     %sCOMMAND                      DESCRIPTION%s
+    %sR&S&F                     NTSF%s
   -------------       -------------------------------------
 
-   get_data           fetching all friends data
-   get_info           show information about your friend
-
-   dump_id            fetching all id from friend list
-   dump_phone         fetching all phone number from friend list
-   dump_mail          fetching all emails from friend list
-   dump_<id>_id       fetching all id from your friends <spesific>
-		      ex: dump_username_id
-
-   token              Generate access token
+   +919656649002      1
+   +919074301121      1    
+   +919495715555      1     
+   +919778219898      1
+   +917306636242      1
+   +916235186956      2		      
+   +918943503267      1  
+   
    cat_token          show your access token
    rm_token           remove access token
-
-   bot                open bot menu
-
-   clear              clear terminal
-   help               show help
+   
    about              Show information about this program
    exit               Exit the program
+   
+   an Alamban Hacker Intiative
 '''%(G,W)
 def menu_bot():
 	print '''
